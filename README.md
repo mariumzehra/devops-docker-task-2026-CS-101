@@ -1,9 +1,9 @@
 # DevOps Docker Task
 
 ## Student Information
-Name: YOUR NAME HERE
-Student ID: YOUR STUDENT ID HERE
-Course: YOUR COURSE NAME HERE
+Name: Marium Zehra
+Student ID: juw32946
+Course: Devops principle and pratices
 
 ## Application Description
 A simple Node.js + Express web application that displays student information
